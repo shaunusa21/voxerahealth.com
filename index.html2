@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Voxera Health</title>
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #0f172a;
+  color: white;
+  text-align: center;
+}
+
+header {
+  padding: 60px 20px;
+}
+
+h1 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.tagline {
+  font-size: 20px;
+  color: #38bdf8;
+}
+
+.section {
+  padding: 40px 20px;
+}
+
+.card {
+  background: #1e293b;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 12px;
+  max-width: 400px;
+}
+
+footer {
+  padding: 20px;
+  font-size: 14px;
+  color: #94a3b8;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+  <h1>Voxera Health</h1>
+  <p class="tagline">Voice. Data. Care.</p>
+</header>
+
+<div class="section">
+  <div class="card">
+    <h2>Assistive Communication</h2>
+    <p>Advanced AAC devices empowering patient voice.</p>
+  </div>
+
+  <div class="card">
+    <h2>Cloud Platform</h2>
+    <p>Secure patient data and therapy tools in one place.</p>
+  </div>
+
+  <div class="card">
+    <h2>Care Integration</h2>
+    <p>Connecting therapists, patients, and families.</p>
+  </div>
+</div>
+
+<footer>
+  © 2026 Voxera Health
+</footer>
+
+</body>
+</html>
